@@ -312,6 +312,7 @@ img {
 /* <-----main__container----> */
 .main__container{
     height: 100vh;
+     
     /* border: 2px solid greenyellow; */
     margin-top: 60px;
     display: flex;
@@ -343,6 +344,7 @@ justify-content: left;
   }
   .content{
     width: 100vw;
+    height: 30vh;
     justify-content: center;
   }
   .logo{
